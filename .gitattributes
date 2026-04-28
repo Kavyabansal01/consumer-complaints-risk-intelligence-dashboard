@@ -1,0 +1,13 @@
+# Keep GitHub language stats focused on source/query files.
+*.ipynb linguist-detectable=false
+*.csv linguist-detectable=false
+*.xlsx linguist-detectable=false
+*.docx linguist-detectable=false
+*.pdf linguist-detectable=false
+*.png linguist-detectable=false
+*.pbix linguist-detectable=false
+*.json linguist-detectable=false
+*.md linguist-detectable=false
+
+# MySQL scripts are shown by GitHub as SQL.
+*.sql linguist-language=SQL
