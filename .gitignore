@@ -1,0 +1,25 @@
+# Python and notebook cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments
+.env
+.venv/
+venv/
+env/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Temporary Power BI and Office lock files
+~$*
+*.tmp
+*.temp
+
+# Local-only backups or archived exports
+_Archive_Unused/
